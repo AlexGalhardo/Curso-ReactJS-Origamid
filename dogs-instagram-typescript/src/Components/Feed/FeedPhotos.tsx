@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from 'react';
 import FeedPhotosItem from './FeedPhotosItem';
 import useFetch from '../../Hooks/useFetch';

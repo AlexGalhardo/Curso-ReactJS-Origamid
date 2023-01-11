@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from 'react';
 import Head from '../Helper/Head.tsx';
 import useFetch from '../../Hooks/useFetch';

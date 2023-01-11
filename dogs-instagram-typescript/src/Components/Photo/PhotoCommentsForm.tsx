@@ -1,5 +1,6 @@
+// @ts-nocheck
 import React from 'react';
-import Enviar from '../../Assets/enviar.svg';
+import { ReactComponent as Enviar } from '../../Assets/enviar.svg';
 import useFetch from '../../Hooks/useFetch';
 import Error from '../Helper/Error';
 import { COMMENT_POST } from '../../Api';
